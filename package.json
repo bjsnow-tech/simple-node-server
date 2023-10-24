@@ -1,0 +1,16 @@
+{
+  "name": "example-node-server",
+  "version": "1.0.0",
+  "description": "A simple server in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BJ Snowden",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-cookie": "^4.17.1",
+    "express-router": "^0.0.1"
+  }
+}
